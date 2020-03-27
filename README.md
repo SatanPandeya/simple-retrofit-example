@@ -1,7 +1,8 @@
 # simple-retrofit-example
 Android Application: Retrofit, Json . This is simple practise app.
-API: https://jsonplaceholder.typicode.com/
-ROUTE: @GET
+
+- API: https://jsonplaceholder.typicode.com/
+- ROUTE: @GET
 - [URL](https://jsonplaceholder.typicode.com/)
 - [Resources](https://jsonplaceholder.typicode.com/photos)
 
